@@ -1,0 +1,21 @@
+# 1. Môi trường ảo Python
+.venv/
+venv/
+env/
+
+# 2. File bộ nhớ đệm của Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 3. Checkpoint của Jupyter Notebook
+.ipynb_checkpoints/
+
+# 4. File hệ thống của macOS và cấu hình VS Code
+.DS_Store
+.vscode/
+
+# 5. Dữ liệu nhị phân MNIST của Lab 2
+data/
+*.ubyte
+*.gz
