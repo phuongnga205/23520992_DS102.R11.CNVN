@@ -1,0 +1,9 @@
+========== MANUAL SVM (SGD - NUMPY) ==========
+precision:	0.8036
+recall:	0.9000
+f1:	0.8491
+
+========== SKLEARN SVM (LinearSVC) ==========
+precision:	0.6897
+recall:	1.0000
+f1:	0.8163

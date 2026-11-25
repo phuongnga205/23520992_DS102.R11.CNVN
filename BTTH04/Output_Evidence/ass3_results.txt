@@ -1,0 +1,9 @@
+Train shape: (400, 262144) (400,)
+Test shape: (200, 262144) (200,)
+========== ASSIGNMENT 3: SOFT-MARGIN SVM (SGD - NUMPY) ==========
+precision:	0.8036
+recall:	0.9000
+f1:	0.8491
+Confusion Matrix:
+[[78 22]
+ [10 90]]
