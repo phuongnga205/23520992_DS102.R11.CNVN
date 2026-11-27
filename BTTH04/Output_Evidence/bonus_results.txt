@@ -1,0 +1,12 @@
+Dataset BDS shape: (93, 21) (93,)
+Train shape: (74, 21) (74,)
+Test shape: (19, 21) (19,)
+========== BONUS DATASET (CHOTOT BDS) - MANUAL SVM ==========
+precision:	1.0000
+recall:	1.0000
+f1:	1.0000
+
+========== BONUS DATASET (CHOTOT BDS) - SKLEARN LinearSVC ==========
+precision:	1.0000
+recall:	1.0000
+f1:	1.0000
